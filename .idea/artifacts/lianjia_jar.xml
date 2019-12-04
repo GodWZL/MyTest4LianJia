@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="lianjia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lianjia_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lianjia.jar">
+        <element id="module-output" name="lianjia" />
+        <element id="directory" name="library">
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.58" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.4" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.7" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.12.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
