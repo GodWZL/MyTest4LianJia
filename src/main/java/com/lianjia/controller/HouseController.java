@@ -2,6 +2,7 @@ package com.lianjia.controller;
 
 
 import com.alibaba.fastjson.JSONObject;
+import org.apache.hadoop.mapred.FileInputFormat;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
